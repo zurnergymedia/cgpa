@@ -1,5 +1,3 @@
-from typing import List, Any
-
 total_list = []
 course_list = []
 unit_list = []
